@@ -34,7 +34,7 @@ def check_winnings(columns, lines, bet, values):
                 break
         else:
             winnings += values[symbol] * bet
-            winning_lines.append[line + 1]
+            winning_lines.append(line + 1)
         
     return winnings,winning_lines
 
