@@ -26,16 +26,16 @@ The current balance is displayed at the beginning of each iteration.
 
 
 __How to Play:__  
-1.Run the script.
-2.Deposit an initial amount to start the game.
-3.Press Enter to play or 'q' to quit.
-4.Choose the number of lines and the bet amount per line.
-5.The slot machine generates random combinations, and winnings are calculated.
-6.The game continues until the player decides to quit.
+1.Run the script.  
+2.Deposit an initial amount to start the game.  
+3.Press Enter to play or 'q' to quit.  
+4.Choose the number of lines and the bet amount per line.  
+5.The slot machine generates random combinations, and winnings are calculated.  
+6.The game continues until the player decides to quit.  
 
 
 __Customization:__  
-Adjust the 'MAX_LINES', 'MAX_BET', and 'MIN_BET' constants to modify game constraints.
+Adjust the 'MAX_LINES', 'MAX_BET', and 'MIN_BET' constants to modify game constraints.  
 Customize the 'symbol_count' and 'symbol_value' dictionaries to change the symbols and their associated values.
 
 
