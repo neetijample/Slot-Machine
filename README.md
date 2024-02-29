@@ -1,6 +1,7 @@
 **Slot Machine Game**  
 This Python script is a simple text-based slot machine game. Players can deposit money, place bets on multiple lines, and spin the slot machine to try and win prizes based on symbol combinations.
 
+
 __Features__:  
 1.Deposit Functionality:  
 Players can deposit money to start the game.
@@ -23,6 +24,7 @@ Winnings are determined by the value of the symbols and the player's bet.
 Players can spin the slot machine multiple times until they decide to quit.
 The current balance is displayed at the beginning of each iteration.
 
+
 __How to Play:__  
 1.Run the script.
 2.Deposit an initial amount to start the game.
@@ -31,9 +33,11 @@ __How to Play:__
 5.The slot machine generates random combinations, and winnings are calculated.
 6.The game continues until the player decides to quit.
 
+
 __Customization:__  
 Adjust the 'MAX_LINES', 'MAX_BET', and 'MIN_BET' constants to modify game constraints.
 Customize the 'symbol_count' and 'symbol_value' dictionaries to change the symbols and their associated values.
+
 
 __*Note__  
 This script is designed for educational and entertainment purposes. Feel free to modify and enhance it as needed. Have fun playing the slot machine game!
