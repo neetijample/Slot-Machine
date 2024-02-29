@@ -1,8 +1,8 @@
-**Slot Machine Game**
-This Python script is a simple text-based slot machine game. Players can deposit money, place bets on multiple lines, and spin the slot machine to try and win prizes based on symbol combinations.
+#**Slot Machine Game**
+####This Python script is a simple text-based slot machine game. Players can deposit money, place bets on multiple lines, and spin the slot machine to try and win prizes based on symbol combinations.
 
-___Features__:
-1.Deposit Functionality:
+##__Features__:
+###1.Deposit Functionality:
 Players can deposit money to start the game.
 Input validation ensures that only positive numeric values are accepted.
 
